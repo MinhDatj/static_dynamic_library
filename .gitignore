@@ -1,0 +1,4 @@
+dynamic_lib/*
+!dynamic_lib/.gitkeep
+static_lib/*
+!static_lib/.gitkeep
